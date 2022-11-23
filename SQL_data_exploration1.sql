@@ -114,7 +114,7 @@ FROM Pop_vac;
 
 
 -- USING CREATE TABLE 
-CREATE or REPLACE TEMP TABLE  portfolio-project-1-369518.covid_info_ds.PercentagePopulation_Vaccinated (Continent STRING,
+CREATE or REPLACE  TABLE  portfolio-project-1-369518.covid_info_ds.PercentagePopulation_Vaccinated (Continent STRING,
 Location STRING,
 Date datetime,
 Population numeric, 
