@@ -12,7 +12,7 @@ This helped me practice the following *skills*
 7. Create Tables 
 
 
-### Project 2 - [How Much Energy Do We Use?] 
+### Project 2 - [How Much Energy Do We Use?](https://github.com/aathira-p/SQL-Data-Expoloration-Projects/blob/main/SQL_data_exploration1.sql)
 
 This data is used from [Energy-data](https://ourworldindata.org/energy) contains primary energy consumption per person across the world. It helped me practice 
 1. Analyse the data and find the countries that has high consumption rate. 
